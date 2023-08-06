@@ -85,7 +85,8 @@
                 android:layout_marginTop="15dp"
                 android:padding="20sp"
                 android:text="Forgot Password?"
-                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textSize="15sp"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView3Password" />
 
